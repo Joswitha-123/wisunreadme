@@ -99,6 +99,7 @@ Click on the .slcp file in binary folder
 Applications: Here, you will find network information such as the network name and size.
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114721.png" alt="MLBC">
 Security: This section contains the device's private key, device certificate, and other security-related settings.
+
 Radio:For Wi-SUN FAN 1.0: You can configure the regulatory domain, operating class, and operating mode.For Wi-SUN FAN 1.1: You can configure the regulatory domain, PHY operating mode ID, and channel ID.
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114730.png" alt="MLBC">
  8.Apply Configuration
@@ -116,4 +117,27 @@ And press ctrl+s to save the Wi-SUN configuration
 2. Locate the `.s37` file, click on it, and select `Flash to Device`.
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114840.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+
+# Checking Network Connection
+To verify if the device is connected to the desired network, follow these steps:
+# Retrieve the MAC Address
+1.	Connect the device to your system.
+2.Go to Debug adapters and right click on the board name
+3. Click on `Launch Console`.
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+4. If the device is successfully connected to the network, you will see the five states.
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+5. You can get the MAC address of the device
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+# Verify Connection in Cockpit Interface
+1. Open the Cockpit interface.
+2. Click on `Terminal`.
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+3. Enter the command `wsbrd_cli status`.
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114847.png" alt="MLBC">
+4. This will display the connected nodes. You can check here to confirm if your device is connected to the network.
+# Cross-Check via Topology
+1. Alternatively, you can click on `Topology` in the Cockpit interface.
+2. Locate your node in the displayed network topology to verify its connection status.
+3. For this version ,this won’t work, we can do this for the versions which it can be applicable
 
