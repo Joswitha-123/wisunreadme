@@ -1,3 +1,22 @@
+# Contents
+(Installation of Simplicity studio -V5)
+Getting Started with Wi-SUN	2
+Setting Up Wi-SUN Border Router	2
+Installation of Wi-SUN Border Router GUI	2
+Cockpit Launch	2
+Wi-SUN Dashboard	3
+FAN1.1-FSK-Application:	4
+Adding Required Repositories:	4
+Add the Wi-SUN Applications Repository to Simplicity Studio	4
+Adding Repository for updated codes:	8
+Create Bootloader Project:	9
+Creating Node Monitoring Application:	13
+Wi-SUN board configuration	17
+Checking Network Connection	21
+Retrieve the MAC Address	21
+Verify Connection in Cockpit Interface	23
+
+
 # Installation of Simplicity studio -V5
 To know more about Simplicity Studio, you can go through the user guide
 (https://docs.silabs.com/simplicity-studio-5-users-guide/5.3.0/ss-5-users-guide-overview/)
