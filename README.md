@@ -28,3 +28,9 @@ After setting up login by providing the required credentials
 
 The Wi-SUN Dashboard tab provides direct access to wsbrd.conf configuration file. It gives the ability to change your wsbrd configuration without the need to physically access the Raspberry Pi. The Wi-SUN Border Router service box allows the user to start, restart or stop the Wi-SUN Border Router service by clicking the three dots dropdown. The other boxes expose the Wi-SUN Border Router active configuration.
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
+# FAN1.1-FSK-Application:
+Node Monitoring
+Wi-SUN Node Monitoring is an extendable node monitoring application that provides information on the device, board, application, and connection statistics. It can be easily extended to monitor sensors and control actuators.
+# Adding Required Repositories:
+Add the Wi-SUN Applications Repository to Simplicity Studio
+1. Open Simplicity Studio and connect the Main board.
