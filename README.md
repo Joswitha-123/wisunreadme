@@ -52,26 +52,26 @@ Clone the below Repository in your system
 
 # Create Bootloader Project:
 1.	Click on `Bootloader- SoC SPI Flash Storage( 1024)` and then click on `Create`.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112354.png" alt="MLBC">
 2.check the project configuration
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112402.png" alt="MLBC">
 3.Open Configuration File
    - Open the `.slcp` file in your project directory.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112412.png" alt="MLBC">
 4.Configure Software Components- Configure the necessary software components as required for your project.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112421.png" alt="MLBC">
 Install LZMA
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112429.png" alt="MLBC">
 5.Build the Project- Build the project to compile the code and prepare it for flashing.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112440.png" alt="MLBC">
 Ensure the build completes with zero errors.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112448.png" alt="MLBC">
 6.Erase and Flash to the Device:
    - Navigate to the `.s37` file in the binaries folder.
    - First, erase the existing firmware on the device.
    - Then, program and flash the new firmware onto the device.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112502.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112514.png" alt="MLBC">
 
 
 
