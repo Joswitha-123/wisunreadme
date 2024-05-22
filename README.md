@@ -44,7 +44,6 @@ Add the Wi-SUN Applications Repository to Simplicity Studio
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110202.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110212.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110223.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110232.png" alt="MLBC">
 
 # Adding Repository for updated codes:
