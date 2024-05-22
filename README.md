@@ -21,3 +21,5 @@ Follow the below Repository to setup BR GUI
 Cockpit features are accessible through its Web interface. It is available at http://[border router server]:9090/.
 If the plugin was installed correctly, it should appear in the left side panel of Cockpit's Web interface as Wi-SUN Border Router.
 After setting up login by providing the required credentials
+# Wi-SUN Dashboard
+The Wi-SUN Dashboard tab provides direct access to wsbrd.conf configuration file. It gives the ability to change your wsbrd configuration without the need to physically access the Raspberry Pi. The Wi-SUN Border Router service box allows the user to start, restart or stop the Wi-SUN Border Router service by clicking the three dots dropdown. The other boxes expose the Wi-SUN Border Router active configuration.
