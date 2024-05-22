@@ -5,6 +5,7 @@ Search Silicon labs Simplicity Studio on a browser,
 Create an Account in Simplicity Studio and
 Click on Required Installer
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20104138.png" alt="MLBC">
+
 Go through the below video for complete installation process
 (https://youtu.be/ONrmMEgFYMo?si=FESHt9YXUVKaqHwz)
 SDK Version: Gecko SDK Suite v4.4.2
