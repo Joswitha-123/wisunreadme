@@ -72,7 +72,9 @@ Ensure the build completes with zero errors.
    - Then, program and flash the new firmware onto the device.
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112502.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20112514.png" alt="MLBC">
+
 # Creating Node Monitoring Application:
+
 1.click on start:
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20114557.png" alt="MLBC">
 2.Click on Example Projects and Demos.
