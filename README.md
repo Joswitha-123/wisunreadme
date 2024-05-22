@@ -4,4 +4,4 @@ To know more about Simplicity Studio, you can go through the user guide
 Search Silicon labs Simplicity Studio on a browser,
 Create an Account in Simplicity Studio and
 Click on Required Installer
-
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20104138.png" alt="MLBC">
