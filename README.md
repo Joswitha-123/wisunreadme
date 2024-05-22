@@ -34,14 +34,14 @@ Wi-SUN Node Monitoring is an extendable node monitoring application that provide
 # Adding Required Repositories:
 Add the Wi-SUN Applications Repository to Simplicity Studio
 1. Open Simplicity Studio and connect the Main board.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110119.png" alt="MLBC">
 2. Navigate to `Window` -> `Preferences` -> `Simplicity Studio` -> `External Repos`.
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110129.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110141.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110151.png" alt="MLBC">
 3. Click on `Add` and paste the URI of the repository: 
 (https://github.com/SiliconLabs/wisun_applications.git)
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
-<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110202.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110212.png" alt="MLBC">
+<img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20110223.png" alt="MLBC">
 <img src="https://github.com/Joswitha-123/wisunreadme/blob/main/Screenshot%202024-05-22%20105200.png" alt="MLBC">
